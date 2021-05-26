@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://era2010-coder.github.io/csb-8kp34/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://era2010-coder.github.io/csb-8kp34/static/js/main.48280274.chunk.js",
+    "main.js.map": "https://era2010-coder.github.io/csb-8kp34/static/js/main.48280274.chunk.js.map",
+    "runtime-main.js": "https://era2010-coder.github.io/csb-8kp34/static/js/runtime-main.37a1978c.js",
+    "runtime-main.js.map": "https://era2010-coder.github.io/csb-8kp34/static/js/runtime-main.37a1978c.js.map",
+    "static/js/2.2350909c.chunk.js": "https://era2010-coder.github.io/csb-8kp34/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://era2010-coder.github.io/csb-8kp34/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://era2010-coder.github.io/csb-8kp34/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://era2010-coder.github.io/csb-8kp34/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://era2010-coder.github.io/csb-8kp34/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37a1978c.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.48280274.chunk.js"
+  ]
+}
